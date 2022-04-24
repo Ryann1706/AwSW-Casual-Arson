@@ -4,6 +4,11 @@ init python:
 
 label ryann_casual_arson_start:
 
+if renpy.has_label("bangok_four_anna2_romanticdate_conclusion") and persistent.nsfwtoggle == True:
+    jump ryann_casual_arson_start_return
+else:
+    pass
+
 menu:
     "He can’t be that dangerous.":
         pass
