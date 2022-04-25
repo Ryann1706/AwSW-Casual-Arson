@@ -247,7 +247,20 @@ An smirk c "I’ve come here before. I know who the farmer is, and he’s loaded
 c "And you’re not worried about getting found out at all?"
 An normal c "It’s too dark out to recognize anyone. You won’t say anything because you're my accomplice. I’m fine."
 c "Fair enough."
-An "Anyway, let’s get out of here."
+
+c "Also, given what you said about only doing inconsequential things, burning the shed like you did doesn’t exactly seem like a spur-of-the-moment idea."
+An smirk c "Alright, you got me. I might have had the idea of something like this in the back of my head for a while."
+c "How come?"
+An sad c "Like I said, I’ve come here before, and I was bound to slip up eventually."
+An normal c "To make a long story short; I started getting cocky and had a close call which ended up with me having to run into the forest."
+An "So, I was wanting to get back at him for a while now, and I guess this time was the straw that broke the aurochs’ back and finally pushed me to follow through."
+c "I’m not sure you were justified in wanting to get back at him, given you were stealing his mouflons in the first place."
+An smirk c "It’s not my fault he’s not using the perfectly good barn to keep his mouflons in at night."
+An normal c "If I didn’t get them, something or someone else would’ve."
+c "Honestly, you do have a point there."
+An smirk c "Exactly."
+
+An normal c "Anyway, let’s get out of here."
 
 jump ryann_casual_arson_start_return
 
