@@ -5,7 +5,9 @@ This requires MagmaLink to work, which can be found on [Gitlab](https://gitlab.c
 This mod isn’t fully compatible with Bangok (A diffrent mod by 4onen). If you have both mods installed there are two solutions: Temporarily, uninstall Bangok, or set the NSFW toggle to off.
 
 
-A short mod that adds a small amount of extra content to Anna’s 2nd date, including:
+This is kind of like a sequel to my other mod, Casual Vandalism, but this time with more effort and actual modding experience behind it.
+
+This is short mod that adds a small amount of extra content to Anna’s 2nd date, including:
 + A cheeky little bit of, you guessed it, Arson!
 + Mouflons
 + Some headcanon extra backstory for Anna
