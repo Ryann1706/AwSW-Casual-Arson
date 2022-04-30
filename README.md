@@ -2,7 +2,7 @@
 
 NOTES: 
 This requires MagmaLink to work, which can be found on [Gitlab](https://gitlab.com/jakzie2/awsw-magmalink), or on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2594080243)
-This mod isn’t fully compatible with Bangok (Another mod by 4onen). If you have both mods installed there are two solutions: Temporarily, uninstall Bangok, or set the NSFW toggle to off.
+This mod isn’t fully compatible with Bangok (A diffrent mod by 4onen). If you have both mods installed there are two solutions: Temporarily, uninstall Bangok, or set the NSFW toggle to off.
 
 
 The point of this mod is to add some extra content to Anna’s 2nd date, including:
