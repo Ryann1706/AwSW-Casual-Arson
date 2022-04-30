@@ -8,7 +8,7 @@ class AWSWMod(Mod):
     name = "Casual Arson"
     version = "1.0"
     author = "Ryann1706"
-    dependencies = ["MagmaLink"]
+    dependencies = ["MagmaLink", "?BangOk"]
 
     def mod_load(self):
         ml.find_label("anna2") \
